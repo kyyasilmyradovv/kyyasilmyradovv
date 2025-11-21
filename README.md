@@ -21,7 +21,7 @@
 ![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-10B981?style=for-the-badge&logoColor=black>)
 ![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-10B981?style=for-the-badge&logoColor=black>)
 ![SQL](https://img.shields.io/badge/SQL-10B981?style=for-the-badge&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-10B981?style=for-the-badge&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-C81B49?style=for-the-badge&logoColor=black)
 
 ### Frameworks & Libraries
 
