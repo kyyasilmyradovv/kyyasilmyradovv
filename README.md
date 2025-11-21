@@ -4,8 +4,8 @@
 
 ### Senior Full-Stack Engineer | Web3 Builder | AI Innovator
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kyyas.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kyyas.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyyasilmyradov)
+<a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Portfolio"></a>
+<a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyyas.ilmyradov@gmail.com)
 
 </div>
@@ -91,23 +91,8 @@ Engineered robust backend systems and infrastructure:
 
 - 📈 **30%** productivity boost through digital HR management system
 - 🗄️ Managed complex distributed databases with **70+** tables for inventory tracking
-- 🔍 Built vector-based search features using Pinecone for enhanced content retrieval
 - ☁️ **50%** faster query execution through smart indexing and AWS cloud optimization
 - 💾 Reduced storage costs by **40%** through advanced cloud strategies
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyyasilmyradovv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyyasilmyradovv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kyyasilmyradovv&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
