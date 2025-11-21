@@ -18,7 +18,7 @@
 ### Programming Languages
 
 ![JavaScript (Node, React)](<https://img.shields.io/badge/JavaScript_(Node,_React)-B73D9E?style=for-the-badge&logoColor=black>)
-![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-5CA92O?style=for-the-badge&logoColor=black>)
+![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-E7B4B2?style=for-the-badge&logoColor=black>)
 ![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-F19143?style=for-the-badge&logoColor=black>)
 ![SQL](https://img.shields.io/badge/SQL-10B981?style=for-the-badge&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-C81B49?style=for-the-badge&logoColor=black)
