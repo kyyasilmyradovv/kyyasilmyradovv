@@ -9,18 +9,9 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 **Senior Full-Stack Engineer** with **6 years of impactful contribution** crafting digital solutions that streamline operations and deliver meaningful results. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
-
-**What drives me:**
-
-- 🎯 Building products that solve real problems
-- 🤖 Exploring the intersection of AI and user experience
-- ⛓️ Creating seamless Web3 integrations
-- 📊 Optimizing systems for performance and scale
 
 ## 💻 Tech Stack
 
@@ -94,13 +85,6 @@ Engineered robust backend systems and infrastructure:
 - 🤖 Building AI-powered applications with RAG and LLMs
 - ⛓️ Exploring DeFi protocols and Web3 integrations
 - 🚀 Optimizing full-stack applications for scale and performance
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
-
-- 🌐 **Portfolio:** [kyyas.dev](https://kyyas.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/kyyasilmyradov](https://linkedin.com/in/kyyasilmyradov)
 
 <div align="center">
 
