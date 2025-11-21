@@ -106,6 +106,4 @@
 
 ### ⚡ "1 Life 4 Decentralization & AI"
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kyyasilmyradovv.kyyasilmyradovv&left_color=gray&right_color=blue)
-
 </div>
