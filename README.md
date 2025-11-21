@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Kyyas
+👋 Hey, I'm Kyyas
 
 ### Senior Full-Stack Engineer | Web3 Builder | AI Innovator
 
