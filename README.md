@@ -15,7 +15,7 @@
       style="border-radius: 4px; margin-right: 6px;"
     />
     <img 
-      src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge&logoColor=white" 
+      src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge" 
       alt="Fun Project"
     />
   </span>
