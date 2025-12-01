@@ -6,19 +6,25 @@
 
 <a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logoColor=white" alt="AI Portfolio"></a>
 <a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-<a href="https://my-extra-screen.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <span style="display: inline-flex; align-items: center;">
+<a href="https://my-extra-screen.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <div style="
+    display:inline-flex;
+    align-items:center;
+    background:#FFB100;
+    padding:6px 14px;
+    border-radius:6px;
+    font-weight:bold;
+    color:#fff;
+    font-family:Arial, sans-serif;
+  ">
     <img 
       src="https://kyyas.dev/assets/images/my-extra-screen-logo.png" 
-      alt="My Extra Screen Logo" 
-      height="28" 
-      style="border-radius: 4px; margin-right: 6px;"
+      alt="My Extra Screen" 
+      height="22" 
+      style="margin-right:8px; border-radius:4px;"
     />
-    <img 
-      src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge" 
-      alt="Fun Project"
-    />
-  </span>
+    Fun Project
+  </div>
 </a>
 </div>
 
