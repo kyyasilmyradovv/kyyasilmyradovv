@@ -2,10 +2,10 @@
 
 # 👋 Hey, I'm Kyyas
 
-### Senior Full-Stack Engineer | Web3 Builder | AI Innovator
+### Senior Full-Stack Engineer | 6 Years of Delivery | Web3 & AI Automation
 
 <a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logoColor=white" alt="AI Portfolio"></a>
-<a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/kyyasdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
 <a href="https://my-extra-screen.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge&logoColor=white" alt="Fun Project"></a>
 </div>
 
